@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SixthProject</string>
+    <string name="app_name2">Pizzaria</string>
+    <string name="rbMussa">Mussarela</string>
+    <string name="rbCala">Calabresa</string>
+    <string name="rbPort">Portuguesa</string>
+    <string name="ckBorda">Borda Recheada</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtResultado">O Valor a ser pago é de: </string>
+
+</resources>
